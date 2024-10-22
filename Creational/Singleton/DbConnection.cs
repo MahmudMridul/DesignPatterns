@@ -1,5 +1,4 @@
-﻿
-namespace Learn_DesignPatterns.Creational
+﻿namespace Learn_DesignPatterns.Creational.Singleton
 {
     internal class DbConnection
     {
