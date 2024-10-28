@@ -1,10 +1,10 @@
 ﻿namespace Learn_DesignPatterns.Creational.FactoryMethod
 {
-    internal class PdfDocumentFactory : DocumentFactory
+    internal class WordFactory : DocumentFactory
     {
         public override IDocument CreateDocument()
         {
-            return new PdfDocument();
+            return new Word();
         }
     }
 }

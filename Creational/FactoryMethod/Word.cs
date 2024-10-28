@@ -1,6 +1,6 @@
 ﻿namespace Learn_DesignPatterns.Creational.FactoryMethod
 {
-    internal class WordDocument : IDocument
+    internal class Word : IDocument
     {
         public void Close()
         {

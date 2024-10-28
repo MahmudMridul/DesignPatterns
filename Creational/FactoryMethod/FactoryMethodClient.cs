@@ -1,11 +1,11 @@
 ﻿namespace Learn_DesignPatterns.Creational.FactoryMethod
 {
-    internal class FactoryMethodExecutor
+    internal class FactoryMethodClient
     {
         public void Run()
         {
-            DocumentFactory pdfFactory = new PdfDocumentFactory();
-            DocumentFactory wordFactory = new WordDocumentFactory();
+            DocumentFactory pdfFactory = new PdfFactory();
+            DocumentFactory wordFactory = new WordFactory();
 
             IDocument pdf = pdfFactory.CreateDocument();
             IDocument word = wordFactory.CreateDocument();

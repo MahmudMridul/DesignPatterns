@@ -1,7 +1,7 @@
 ﻿
 namespace Learn_DesignPatterns.Creational.FactoryMethod
 {
-    internal class PdfDocument : IDocument
+    internal class Pdf : IDocument
     {
         public void Close()
         {
