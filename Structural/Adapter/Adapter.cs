@@ -1,11 +1,13 @@
 ﻿
 namespace Learn_DesignPatterns.Structural.Adapter
 {
+    // Existing interface client expects
     public interface IJsonAdapter
     {
         string GetJsonData();
     }
 
+    // Legacy system that needs to be adapted
     public class LegacyXmlSystem
     {
         public string GetXmlData()
@@ -14,6 +16,7 @@ namespace Learn_DesignPatterns.Structural.Adapter
         }
     }
 
+    // Adapter implementation
     public class  XmlToJsonAdapter : IJsonAdapter
     {
         private LegacyXmlSystem _xmlSystem;
