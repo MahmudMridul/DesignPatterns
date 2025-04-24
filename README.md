@@ -1,9 +1,9 @@
 # Learn_DesignPatterns
 ### 1. Creational Patterns
-  - [Singleton (Thread Safe)](Creational/Singleton/Doc/singleton.md)
-  - [Factory Method](Creational/FactoryMethod/Doc/factorymethod.md)
-  - [Abstract Factory](Creational/AbstractFactory/Doc/abstractfactory.md)
+  - [Singleton (Thread Safe)](Documents/singleton.md)
+  - [Factory Method](Documents/factorymethod.md)
+  - [Abstract Factory](Documents/abstractfactory.md)
 
 ### 2. Structural Patterns
-  - [Adapter](Structural/Adapter/Doc/adapter.md)
+  - [Adapter](Documents/adapter.md)
 
