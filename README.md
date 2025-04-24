@@ -7,3 +7,6 @@
 ### 2. Structural Patterns
   - [Adapter](Documents/adapter.md)
 
+### 3. Behavioral Patterns
+  - [Strategy](Documents/strategy.md) 
+
