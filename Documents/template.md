@@ -15,6 +15,19 @@ Clearly describe the design problem this pattern addresses. Include:
 - Why traditional approaches fall short
 - Specific scenarios where this problem commonly occurs
 
+## Anti-Pattern Case Study
+Examine a real-world scenario where this pattern should have been used but wasn't:
+
+- Show a implementation in C#
+```csharp
+// Include C# code where pattern was not used but should have been used
+```
+- Description of the actual implementation without the pattern
+- Specific problems and challenges that arose
+- How these issues compounded over time
+- Code refactoring required to fix the problems
+- Lessons learned from the experience
+
 ## Solution
 Explain how the pattern solves the stated problem:
 - Core concept of the pattern
