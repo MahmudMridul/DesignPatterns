@@ -4,12 +4,10 @@
 A brief introduction to the pattern, including:
 - What problem it solves
 - A real-world analogy to help understand the concept
-- When this pattern was introduced and by whom (if notable)
 
 ## Pattern Classification
 - **Type**: [Creational/Structural/Behavioral]
 - **Scope**: [Class/Object]
-- **Complexity**: [Low/Medium/High]
 
 ## Problem Statement
 Clearly describe the design problem this pattern addresses. Include:
@@ -22,11 +20,6 @@ Explain how the pattern solves the stated problem:
 - Core concept of the pattern
 - Key participants and their responsibilities
 - How these elements collaborate to solve the problem
-
-## Structure
-Visual representation of the pattern:
-- UML class diagram showing the relationships between components
-- Brief explanation of each component in the diagram
 
 ## Implementation in C#
 Show a practical implementation in C#:
@@ -78,8 +71,3 @@ Examples of where this pattern is used in:
 
 ## Conclusion
 Summarize the key points about the pattern, its usefulness, and when to consider it in your designs.
-
-## References
-- Books, articles, or websites where readers can learn more
-- Original sources that defined the pattern
-- Additional resources for deeper understanding
