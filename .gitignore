@@ -1,4 +1,7 @@
-.vs/*
-obj/*
-bin/*
-Program.cs
+DesignPatternsCsharp/.vs/*
+DesignPatternsCsharp/obj/*
+DesignPatternsCsharp/bin/*
+DesignPatternsCsharp/Program.cs
+
+DesignPatternsPython/.idea/*
+DesignPatternsPython/.venv/*
